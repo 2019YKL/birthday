@@ -4,7 +4,8 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "祝你——",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "不用天天加班",
+        "不用时时加班",
+        "天天吃不胖",
         "周周有大餐",  // 同上...
         "追星不踏房",
         "岁月悠长",
@@ -30,11 +31,11 @@ var config = {
     desc: {
         turn_on: "戳我一下",
         play: "来点音乐",
-        bannar_coming: "今天是个幸运的日子，对吧",
+        bannar_coming: "今天是个幸运的日子",
         balloons_flying: "再来来点气球",
-        cake_fadein: "摆个蛋糕，点个蜡烛",
+        cake_fadein: "摆蛋糕，点蜡烛",
         light_candle: "许个愿吧",
-        //wish_message: "",
-        //story: "加油哦~",
+        wish_message: "一定会实现的！",
+        story: "还有还有...",
     }
 };

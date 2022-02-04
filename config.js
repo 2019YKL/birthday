@@ -32,7 +32,7 @@ var config = {
         turn_on: "戳我一下",
         play: "来点音乐",
         bannar_coming: "今天是个幸运的日子",
-        balloons_flying: "再来来点气球",
+        balloons_flying: "再来点气球",
         cake_fadein: "摆蛋糕，点蜡烛",
         light_candle: "许个愿吧",
         wish_message: "一定会实现的！",

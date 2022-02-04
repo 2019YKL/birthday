@@ -32,9 +32,9 @@ var config = {
         play: "来点音乐",
         bannar_coming: "今天是个幸运的日子，对吧",
         balloons_flying: "再来来点气球",
-        cake_fadein: "恰蛋糕了",
+        cake_fadein: "摆个蛋糕，点个蜡烛",
         light_candle: "许个愿吧",
-       // wish_message: "",
-       // story: "加油哦~",
+        //wish_message: "",
+        //story: "加油哦~",
     }
 };

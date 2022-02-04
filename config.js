@@ -23,8 +23,8 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        //"亲爱的欧小朋友": "./imgs/tingfang.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "亲爱的欧小朋友": "./imgs/tingfang.png",
+        "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -34,7 +34,7 @@ var config = {
         balloons_flying: "再来来点气球",
         cake_fadein: "恰蛋糕了",
         light_candle: "许个愿吧",
-        wish_message: "新的一年",
-        story: "加油哦~",
+       // wish_message: "",
+       // story: "加油哦~",
     }
 };
